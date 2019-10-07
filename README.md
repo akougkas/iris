@@ -3,8 +3,8 @@
 There is an ocean of available storage solutions in modern high- performance and distributed systems. These solutions consist of Parallel File Systems (PFS) for the more traditional high-performance computing (HPC) systems and of Object Stores for emerging cloud environments. In this project, we propose a unified storage access system, called IRIS (i.e., I/O Redirection via Integrated Storage). IRIS enables unified data access and seamlessly bridges the semantic gap between file systems and object stores. With IRIS, emerging High-Performance Data Analytics software has capable and diverse I/O support. IRIS can bring us closer to the convergence of HPC and Cloud environments by combining the best storage subsystems from both worlds. Experimental results show that IRIS can grant more than 7x improvement in performance than existing solutions.
 
 ## Who do I talk to?
-* Anthony Kougkas (PhD) akougkas@hawk.iit.edu
-* Hariharan Devarajan (M.Sc.) jdevarajan@hawk.iit.edu
+* Research Assistant Professor Anthony Kougkas akougkas@iit.edu
+* Hariharan Devarajan (PhD) hdevarajan@hawk.iit.edu
 * Professor Xian-He Sun sun@iit.edu
 
 ### How to compile MPICH
